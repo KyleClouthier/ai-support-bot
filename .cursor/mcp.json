@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "internal-admin": {
+      "url": "https://simgen.dev/mcp/t/dd1968fdf3bc987e",
+      "headers": {
+        "Authorization": "Bearer sk-admin-dd1968fdf3bc987e"
+      }
+    }
+  }
+}
